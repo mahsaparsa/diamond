@@ -2,6 +2,7 @@
 Python
 create counterfeit ASCII diamonds
 
+output:
                         /\
                        //\\
                       ///\\\
